@@ -12,6 +12,7 @@ Aviso base:
 1. ¿El mensaje es claro?
 
 Respuesta: Sí, porque explica de forma sencilla lo que las personas deben hacer antes de compartir información.
+sin embargo se podria ser mas explicito para que el aviso se ha entendido por toda la comunidad.
 
 2. ¿El mensaje ayuda a prevenir desinformación?
 

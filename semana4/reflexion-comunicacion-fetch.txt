@@ -18,8 +18,7 @@ En tu respuesta menciona al menos dos de estas ideas:
 - prevención de desinformación
 - cultura de paz
 
-Respuesta:
-mantener la información constantemente actualizada.
+Respuesta:Una plataforma comunitaria necesita consultar información del servidor para mostrar datos importantes y mantener la información constantemente actualizada.
 También necesita permitir el envío de propuestas para que la comunidad pueda participar, compartir ideas y crear debates sobre temas importantes.
 Fetch ayuda a conectar la página web con el servidor para enviar y recibir información de manera rápida.
 Esto fortalece la participación ciudadana y permite una comunicación más clara entre las personas.
