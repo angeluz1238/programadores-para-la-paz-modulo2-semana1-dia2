@@ -7,7 +7,7 @@ app.use(express.text())
 app.use(express.static("public"))
 
 app.get("/api/campania", (req, res) => {
-  res.send("Campaña: comunicación clara, convivencia digital y participación ciudadana.")
+  res.send("Verifica antes de compartir: campaña contra la desinformación y las noticias falsas.")
 })
 
 app.get("/api/avisos", (req, res) => {
